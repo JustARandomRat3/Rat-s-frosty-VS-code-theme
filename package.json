@@ -1,0 +1,21 @@
+{
+  "name": "rat-s-frosty-theme",
+  "displayName": "Rat's Frosty Theme",
+  "description": "Just a simple frost theme that does theme stuff",
+  "version": "0.0.3",
+  "engines": {
+    "vscode": "^1.123.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rat's frost theme",
+        "uiTheme": "hc-black",
+        "path": "./themes/Rat's frost theme-color-theme.json"
+      }
+    ]
+  }
+}
