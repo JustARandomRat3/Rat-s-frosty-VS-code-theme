@@ -23,3 +23,13 @@ V0.0.2 Fixed compatibility with vscode 1.123.1
 
 ### Added
 V0.0.3 added compatibility with vscode 1.123.1 and up
+
+## [0.1.0] - 2026-11-17
+
+### Added
+V0.1.0 created a github repository at 
+https://github.com/JustARandomRat3/Rat-s-frosty-VS-code-theme
+
+v0.1.0 uploaded files to github repository
+
+V0.1.0 added github repo to package.json

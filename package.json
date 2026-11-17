@@ -2,7 +2,11 @@
   "name": "rat-s-frosty-theme",
   "displayName": "Rat's Frosty Theme",
   "description": "Just a simple frost theme that does theme stuff",
-  "version": "0.0.3",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JustARandomRat3/Rat-s-frosty-VS-code-theme"
+  },
   "engines": {
     "vscode": "^1.123.0"
   },
