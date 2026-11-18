@@ -8,7 +8,7 @@ You found it.
 
 I made this theme because I personaly use it so might as well screenshots of me developing it while using the theme :)
 
-[Screenshot](screenshots/Screenshot 2026-11-18 at 07.51.13.png)
+[<img alt="Download" src="https://github.com/JustARandomRat3/Rat-s-frosty-VS-code-theme/blob/main/screenshots/Screenshot%202026-11-18%20at%2007.51.13.png" style="max-width: 100%;">]
 
 ## download it
 (this is only source code and the actual package is released on the releases page)
