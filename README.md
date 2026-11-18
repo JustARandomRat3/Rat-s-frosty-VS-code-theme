@@ -1,16 +1,18 @@
-# rat-s-frosty-theme README
+# Rat's frosty theme
 
-## Working with Markdown
+Have you ever wanted a high contrast light/dark theme
+that looks nice and works well?
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+You found it. 
+## A first look
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+I made this theme because I personaly use it so might as well screenshots of me developing it while using the theme :)
 
-## For more information
+[Screenshot](screenshots/Screenshot 2026-11-18 at 07.51.13.png)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## download it
+(this is only source code and the actual package is released on the releases page)
+
+[<img alt="Download" src="https://github.com/timschneeb/GalaxyBudsClient/raw/master/screenshots/download.png" style="max-width: 100%;">](https://github.com/JustARandomRat3/Rat-s-frosty-VS-code-theme/releases)
 
 **Enjoy!**
