@@ -6,7 +6,7 @@ that looks nice and works well?
 You found it. 
 ## A first look
 
-I made this theme because I personaly use it so might as well screenshots of me developing it while using the theme :)
+I made this theme because I personally use it so might as well screenshots of me developing it while using the theme :)
 
 <img
   alt="Download"
