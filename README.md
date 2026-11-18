@@ -11,7 +11,7 @@ I made this theme because I personaly use it so might as well screenshots of me 
 <img
   alt="Download"
   src="https://github.com/JustARandomRat3/Rat-s-frosty-VS-code-theme/blob/main/screenshots/Screenshot%202026-11-18%20at%2007.51.13.png"
-  width="200"
+  width="500"
 />
 
 
